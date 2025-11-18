@@ -1,0 +1,17 @@
+# Copyright 2025 Erik Wällstedt
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
+[package]
+name = "gks-xml"
+version = "0.1.0"
+authors = ["gkhk <gkhk.zu@gmail.com>"]
+edition = "2024"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["xml", "xmlparser", "parser", "derive", "proc-macro"] # no_std, serde, serialization
+categories = ["encoding", "parser-implementations"] # asynchronous, caching?, config?, no-std
+description = "A xml parser"
+#documentation = "https://docs.rs/gks-xml"
+repository = "https://github.com/gkhk0/gks-xml"
+
+[dependencies]

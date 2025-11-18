@@ -1,0 +1,13 @@
+# Copyright 2025 Erik Wällstedt
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
+[package]
+name = "gks-xml-test"
+version = "0.1.0"
+authors = ["gkhk <gkhk.zu@gmail.com>"]
+edition = "2024"
+publish = false
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+gks-xml = { path = "../gks-xml" }
